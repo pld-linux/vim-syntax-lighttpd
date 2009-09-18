@@ -1,0 +1,3 @@
+- v1.12: update to current svn (dir-listing.auto-layout,
+  dir-listing.encode-header, dir-listing.encode-readme, evasive.silent,
+  extforward.headers, server.defer-accept were added
